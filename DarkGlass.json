@@ -1,7 +1,7 @@
 {
   "name": "Dark Glass",
   "description": "Frosted Glass meets Dark Matter.",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "authors": [
     {
       "name": "ReplayJay",
@@ -61,10 +61,10 @@
       "#6f96c5",
       "#747f8d"
     ],
+    "comment1":"the little thing that pops up when you swipe to the left that contains, containing the discord logo, the friends list, the search button, the notification button, and your profile"
     "BACKGROUND_FLOATING": [
       "#161f28",
       "#FFFFFF"
-    "comment1":"the little thing that pops up when you swipe to the left that contains, containing the discord logo, the friends list, the search button, the notification button, and your profile"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
       "#161f28",
