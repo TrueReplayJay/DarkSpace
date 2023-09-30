@@ -1,7 +1,7 @@
 {
   "name": "Dark Glass",
   "description": "Frosted Glass meets Dark Matter.",
-  "version": "1.0",
+  "version": "1.0.1",
   "authors": [
     {
       "name": "ReplayJay",
@@ -11,7 +11,7 @@
   "theme_color_map": {
     "HEADER_PRIMARY": [
       "#ffffff",
-      "#383d42"
+      "#55595e"
     ],
     "HEADER_SECONDARY": [
       "#c8c8c8",
