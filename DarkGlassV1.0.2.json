@@ -61,8 +61,8 @@
       "#6f96c5",
       "#747f8d"
     ],
-    "BACKGROUND_FLOATING": [
-      "#3d403e",
+    "BACKGROUND_FLOATING": [ /* the little thing that pops up when you swipe to the left that contains, containing the discord logo, the friends list, the search button, the notification button, and your profile */
+      "#161f28",
       "#FFFFFF"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
