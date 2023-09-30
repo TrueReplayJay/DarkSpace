@@ -10,8 +10,8 @@
   ],
   "theme_color_map": {
     "HEADER_PRIMARY": [
-      "#afc7e3",
-      "#060607"
+      "#ffffff",
+      "#383d42"
     ],
     "HEADER_SECONDARY": [
       "#c8c8c8",
@@ -150,8 +150,8 @@
     "CHAT_GREY": "#0b101a"
   },
   "background": {
-    "blur": 0.6,
+    "blur": 0,
     "url": "https://i.imgur.com/PqCjD7e.jpeg",
-    "alpha": 0.7
+    "alpha": 1
   }
 }
