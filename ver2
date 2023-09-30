@@ -152,6 +152,6 @@
   "background": {
     "blur": 0.6,
     "url": "https://i.imgur.com/4kCy4Wn.jpeg",
-    "alpha": .7
+    "alpha": 0.7
   }
 }
