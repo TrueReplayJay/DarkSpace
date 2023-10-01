@@ -1,7 +1,7 @@
 {
   "name": "Dark Space",
   "description": "Cosmic Salad's Dark Matter meets mortyick's Dawn Space. Made for the iPhone. Updates occasionally.",
-  "version": "1.1.11",
+  "version": "1.1.12",
   "authors": [
     {
       "name": "ReplayJay",
@@ -62,7 +62,7 @@
       "#747f8d"
     ],
     "BACKGROUND_FLOATING": [
-      "#161f28",
+      "#0b101a",
       "#FFFFFF"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
