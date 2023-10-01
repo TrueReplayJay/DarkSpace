@@ -1,7 +1,7 @@
 {
-  "name": "Space Matter",
+  "name": "Dark Space",
   "description": "Dark Matter meets mortyick's Dawn Space. Updates to come.",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "authors": [
     {
       "name": "ReplayJay",
@@ -16,10 +16,6 @@
     "HEADER_SECONDARY": [
       "#c8c8c8",
       "#4f5660"
-    ],
-    "BACKGROUND_MENTIONED": [     
-      "#3a8af2", 
-      "#3a8af2" 
     ],
     "TEXT_NORMAL": [
       "#FBFBFB",
@@ -50,7 +46,7 @@
       "#ffffff"
     ],
     "BACKGROUND_SECONDARY": [
-      "9",
+      "#0b101a",
       "#f2f3f5"
     ],
     "BACKGROUND_SECONDARY_ALT": [
