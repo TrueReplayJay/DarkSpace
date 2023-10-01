@@ -1,7 +1,7 @@
 {
   "name": "Dark Glass",
   "description": "Frosted Glass meets Dark Matter.",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "authors": [
     {
       "name": "ReplayJay",
@@ -16,6 +16,10 @@
     "HEADER_SECONDARY": [
       "#c8c8c8",
       "#4f5660"
+    ],
+    "BACKGROUND_MENTIONED": [     
+      "#3a8af2", 
+      "#3a8af2" 
     ],
     "TEXT_NORMAL": [
       "#FBFBFB",
@@ -46,7 +50,7 @@
       "#ffffff"
     ],
     "BACKGROUND_SECONDARY": [
-      "#0b101a",
+      "9",
       "#f2f3f5"
     ],
     "BACKGROUND_SECONDARY_ALT": [
@@ -90,7 +94,7 @@
       "hsla(214, 9.9%, 50.4%, 0.16)"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
-      "#3d403e",
+      "rgba(255, 255, 255, 0.04)",
       "hsla(214, 9.9%, 50.4%, 0.24)"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
