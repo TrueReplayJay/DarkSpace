@@ -1,7 +1,7 @@
 {
   "name": "Dark Glass",
   "description": "Frosted Glass meets Dark Matter.",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "authors": [
     {
       "name": "ReplayJay",
@@ -74,7 +74,7 @@
       "#f8f9f9"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#3c3f3d",
+      "#0b101a",
       "#ffffff"
     ],
     "BACKGROUND_NESTED_FLOATING": [
